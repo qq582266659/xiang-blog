@@ -44,7 +44,7 @@ export default defineConfig({
       }, {
         text: 'MYSQL',
         items: [
-          { text: 'MYSQL45讲', link: '/MySQL/MYSQL45讲.md' }
+          { text: 'MYSQL45讲', link: '/MySQL/MySQL45讲.md' }
         ]
       }, {
         text: '书籍',
