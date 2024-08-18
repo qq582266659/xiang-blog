@@ -85,7 +85,7 @@ export default defineConfig({
           {
             text: 'MySQL',
             items: [
-              { text: 'MySQL45讲', link: '/MySQL/MYSQL45讲.md' }
+              { text: 'MySQL45讲', link: '/MySQL/MySQL45讲.md' }
             ]
           }
         ]
