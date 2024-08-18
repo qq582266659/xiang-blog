@@ -44,7 +44,7 @@ export default defineConfig({
       }, {
         text: 'MYSQL',
         items: [
-          { text: 'MYSQL45讲', link: '/markdown-examples' }
+          { text: 'MYSQL45讲', link: '/MySQL/MYSQL45讲.md' }
         ]
       }, {
         text: '书籍',
@@ -75,6 +75,17 @@ export default defineConfig({
             text: '书籍',
             items: [
               { text: '趣谈网络协议', link: '/book/趣谈网络协议.md' }
+            ]
+          }
+        ]
+      },
+      "/MySQL": {
+        text: 'MySQL',
+        items: [
+          {
+            text: 'MySQL',
+            items: [
+              { text: 'MySQL45讲', link: '/MySQL/MYSQL45讲.md' }
             ]
           }
         ]
